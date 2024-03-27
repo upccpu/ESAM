@@ -1,0 +1,1 @@
+This is the repository of Enhancing Semantic Awareness by Sentimental Constraint with Automatic Outlier Masking for Multimodal Sarcasm Detection. We have released the core codes. If the paper is accepted smoothly, we will release all the codes to promote the development of the community.
